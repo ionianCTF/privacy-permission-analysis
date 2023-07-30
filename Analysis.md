@@ -1,4 +1,4 @@
-|     Applications   /      Permissions:   Audio and Camera Recording    |     Facebook Lite    |     Facebook full    |     Messenger    |     WhatsApp    |     Instagram    |     TikTok    |     Spotify    |     YouTube    |
+| Audio and Camera Recording    |     Facebook Lite    |     Facebook full    |     Messenger    |     WhatsApp    |     Instagram    |     TikTok    |     Spotify    |     YouTube    |
 |------------------------------------------------------------------------|----------------------|----------------------|------------------|-----------------|------------------|---------------|----------------|----------------|
 |     android.permission.RECORD_AUDIO                                    |     x                |     x                |     x            |     x           |     x            |     x         |     x          |     x          |
 |     android.permission.CAMERA                                          |     x                |     x                |     x            |     x           |     x            |     x         |                |     x          |
