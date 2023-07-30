@@ -16,3 +16,17 @@
 |     android.permission.ACCESS_COARSE_LOCATION    |     x                |     x                |     x            |     x           |                  |     x         |                |     x          |
 |     android.permission.ACCESS_FINE_LOCATION      |     x                |     x                |     x            |     x           |     x            |               |                |     x          |
 |     android.permission.ACCESS_MEDIA_LOCATION     |                      |     x                |                  |     x           |     x            |               |                |                |
+
+|     Applications /      Permissions : Networking      |     Facebook lite    |     Facebook full    |     Messenger    |     WhatsApp    |     Instagram    |     TikTok    |     Spotify    |     YouTube    |
+|-------------------------------------------------------|----------------------|----------------------|------------------|-----------------|------------------|---------------|----------------|----------------|
+|     android.permission.BLUETOOTH                      |     x                |     x                |     x            |     x           |     x            |     x         |     x          |                |
+|     android.permission.ACCESS_NETWORK_STATE           |     x                |     x                |     x            |     x           |     x            |     x         |     x          |     x          |
+|     android.permission.CHANGE_NETWORK_STATE           |     x                |     x                |     x            |     x           |                  |     x         |                |                |
+|     android.permission.CHANGE_WIFI_STATE              |     x                |     x                |     x            |     x           |                  |               |                |                |
+|     android.permission.ACCESS_WIFI_STATE              |     x                |     x                |     x            |     x           |                  |     x         |     x          |     x          |
+|     android.permission.BLUETOOTH_ADVERTISE            |     x                |     x                |                  |                 |                  |               |     x          |                |
+|     android.permission.BLUETOOTH_SCAN                 |     x                |     x                |                  |                 |                  |               |     x          |                |
+|     android.permission.BLUETOOTH_ADMIN                |     x                |     x                |                  |                 |                  |               |     x          |                |
+|     android.permission.BLUETOOTH_CONNECT              |     x                |     x                |                  |                 |                  |     x         |     x          |                |
+|     android.permission.CHANGE_WIFI_MULTICAST_STATE    |     x                |     x                |                  |                 |                  |     x         |     x          |                |
+|     android.permission.NEARBY_WIFI_DEVICES            |     x                |     x                |                  |     x           |                  |               |                |                |
