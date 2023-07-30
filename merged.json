@@ -1,0 +1,849 @@
+{
+    "Media and Storage": {
+        "android.permission.WRITE_EXTERNAL_STORAGE": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "spotify-8-8-50-466.apk",
+            "telegram-9-6-7.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.READ_EXTERNAL_STORAGE": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "spotify-8-8-50-466.apk",
+            "telegram-9-6-7.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ]
+    },
+    "Location and Maps": {
+        "android.permission.ACCESS_FINE_LOCATION": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.ACCESS_BACKGROUND_LOCATION": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "telegram-9-6-7.apk"
+        ],
+        "android.permission.ACCESS_COARSE_LOCATION": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "telegram-9-6-7.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.ACCESS_MEDIA_LOCATION": [
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ]
+    },
+    "Media": {
+        "android.permission.READ_MEDIA_VIDEO": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.READ_MEDIA_IMAGES": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "spotify-8-8-50-466.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION": [
+            "facebook-messenger-416-0-0-9-76.apk"
+        ],
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK": [
+            "spotify-8-8-50-466.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.READ_MEDIA_VISUAL_USER_SELECTED": [
+            "whatsapp-messenger-2-23-14-19.apk"
+        ]
+    },
+    "Notifications and Alerts": {
+        "android.permission.POST_NOTIFICATIONS": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "spotify-8-8-50-466.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk"
+        ],
+        "com.google.android.gms.permission.AD_ID_NOTIFICATION": [
+            "youtube-18-25-38.apk"
+        ]
+    },
+    "Other Permissions": {
+        "android.permission.HIGH_SAMPLING_RATE_SENSORS": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.READ_CALL_LOG": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "telegram-9-6-7.apk"
+        ],
+        "me.everything.badger.permission.BADGE_COUNT_WRITE": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "telegram-9-6-7.apk"
+        ],
+        "android.permission.FLASHLIGHT": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "tiktok-30-2-3.apk"
+        ],
+        "android.permission.MANAGE_OWN_CALLS": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "instagram-289-0-0-25-49.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "android.permission.READ_APP_BADGE": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "telegram-9-6-7.apk"
+        ],
+        "android.permission.READ_SYNC_STATS": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "me.everything.badger.permission.BADGE_COUNT_READ": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "telegram-9-6-7.apk"
+        ],
+        "android.permission.SEND_SMS": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "android.permission.WRITE_SMS": [
+            "facebook-messenger-416-0-0-9-76.apk"
+        ],
+        "android.permission.RECEIVE_MMS": [
+            "facebook-messenger-416-0-0-9-76.apk"
+        ],
+        "android.permission.RECEIVE_SMS": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS": [
+            "facebook-messenger-416-0-0-9-76.apk"
+        ],
+        "android.permission.SCHEDULE_EXACT_ALARM": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "android.permission.READ_SMS": [
+            "facebook-messenger-416-0-0-9-76.apk"
+        ],
+        "android.permission.USE_CREDENTIALS": [
+            "instagram-289-0-0-25-49.apk",
+            "spotify-8-8-50-466.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "org.telegram.messenger.web.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": [
+            "telegram-9-6-7.apk"
+        ],
+        "android.permission.REQUEST_INSTALL_PACKAGES": [
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "android.permission.INSTALL_SHORTCUT": [
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "android.permission.READ_CLIPBOARD": [
+            "telegram-9-6-7.apk"
+        ],
+        "org.telegram.messenger.web.permission.MAPS_RECEIVE": [
+            "telegram-9-6-7.apk"
+        ],
+        "android.permission.RUN_USER_INITIATED_JOBS": [
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.ACCESS_ADSERVICES_AD_ID": [
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.MANAGE_DOCUMENTS": [
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.ACCESS_ADSERVICES_ATTRIBUTION": [
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.GET_PACKAGE_SIZE": [
+            "youtube-18-25-38.apk"
+        ]
+    },
+    "App Integration and Functionality": {
+        "com.sec.android.provider.badge.permission.READ": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "telegram-9-6-7.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "com.huawei.android.launcher.permission.READ_SETTINGS": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "com.htc.launcher.permission.READ_SETTINGS": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "com.oppo.launcher.permission.WRITE_SETTINGS": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "telegram-9-6-7.apk"
+        ],
+        "com.google.android.c2dm.permission.RECEIVE": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "spotify-8-8-50-466.apk",
+            "telegram-9-6-7.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "com.vivo.notification.permission.BADGE_ICON": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk"
+        ],
+        "com.oppo.launcher.permission.READ_SETTINGS": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "telegram-9-6-7.apk"
+        ],
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "spotify-8-8-50-466.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "com.google.android.gms.permission.AD_ID": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "spotify-8-8-50-466.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "com.anddoes.launcher.permission.UPDATE_COUNT": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "telegram-9-6-7.apk"
+        ],
+        "com.huawei.android.launcher.permission.WRITE_SETTINGS": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "com.majeur.launcher.permission.UPDATE_BADGE": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "telegram-9-6-7.apk"
+        ],
+        "com.htc.launcher.permission.UPDATE_SHORTCUT": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "com.samsung.android.mapsagent.permission.READ_APP_INFO": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "tiktok-30-2-3.apk"
+        ],
+        "com.sonyericsson.home.permission.BROADCAST_BADGE": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "com.sec.android.provider.badge.permission.WRITE": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "telegram-9-6-7.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "com.snapchat.android.permission.UPDATE_STICKER_INDEX": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk"
+        ],
+        "com.huawei.android.launcher.permission.CHANGE_BADGE": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "instagram-289-0-0-25-49.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "com.android.vending.BILLING": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "spotify-8-8-50-466.apk",
+            "telegram-9-6-7.apk",
+            "tiktok-30-2-3.apk"
+        ],
+        "com.android.launcher.permission.INSTALL_SHORTCUT": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "spotify-8-8-50-466.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "com.facebook.mlite.provider.ACCESS": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk"
+        ],
+        "com.facebook.orca.permission.CREATE_SHORTCUT": [
+            "facebook-messenger-416-0-0-9-76.apk"
+        ],
+        "com.nokia.pushnotifications.permission.RECEIVE": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk"
+        ],
+        "com.facebook.orca.permission.RECEIVE_ADM_MESSAGE": [
+            "facebook-messenger-416-0-0-9-76.apk"
+        ],
+        "com.google.android.providers.gsf.permission.READ_GSERVICES": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "com.facebook.orca.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": [
+            "facebook-messenger-416-0-0-9-76.apk"
+        ],
+        "com.facebook.receiver.permission.ACCESS": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk"
+        ],
+        "com.facebook.orca.permission.CROSS_PROCESS_BROADCAST_MANAGER": [
+            "facebook-messenger-416-0-0-9-76.apk"
+        ],
+        "com.facebook.permission.prod.FB_APP_COMMUNICATION": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk"
+        ],
+        "com.amazon.device.messaging.permission.RECEIVE": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "tiktok-30-2-3.apk"
+        ],
+        "com.oculus.permission.REPORT_EVENTS_DEBUG": [
+            "facebook-messenger-416-0-0-9-76.apk"
+        ],
+        "com.facebook.katana.provider.ACCESS": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk"
+        ],
+        "com.oculus.permission.REPORT_EVENTS": [
+            "facebook-messenger-416-0-0-9-76.apk"
+        ],
+        "com.facebook.orca.provider.ACCESS": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk"
+        ],
+        "com.facebook.katana.permission.CREATE_SHORTCUT": [
+            "Facebook_420.0.0.32.61_apkcombo.com.apk"
+        ],
+        "com.oculus.twilight.provider.ACCESS": [
+            "Facebook_420.0.0.32.61_apkcombo.com.apk"
+        ],
+        "com.facebook.appmanager.UNPROTECTED_API_ACCESS": [
+            "Facebook_420.0.0.32.61_apkcombo.com.apk"
+        ],
+        "com.facebook.services.identity.FEO2": [
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "com.facebook.katana.permission.RECEIVE_ADM_MESSAGE": [
+            "Facebook_420.0.0.32.61_apkcombo.com.apk"
+        ],
+        "com.facebook.pages.app.provider.ACCESS": [
+            "Facebook_420.0.0.32.61_apkcombo.com.apk"
+        ],
+        "com.facebook.katana.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": [
+            "Facebook_420.0.0.32.61_apkcombo.com.apk"
+        ],
+        "com.facebook.katana.permission.CROSS_PROCESS_BROADCAST_MANAGER": [
+            "Facebook_420.0.0.32.61_apkcombo.com.apk"
+        ],
+        "com.instagram.direct.permission.PROTECTED_DEEPLINKING": [
+            "instagram-289-0-0-25-49.apk"
+        ],
+        "com.instagram.direct.permission.DIRECT_APP_THREAD_STORE_SERVICE": [
+            "instagram-289-0-0-25-49.apk"
+        ],
+        "com.android.launcher.permission.UNINSTALL_SHORTCUT": [
+            "instagram-289-0-0-25-49.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "com.instagram.android..permission.RECEIVE_ADM_MESSAGE": [
+            "instagram-289-0-0-25-49.apk"
+        ],
+        "com.instagram.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": [
+            "instagram-289-0-0-25-49.apk"
+        ],
+        "com.spotify.music.permission.SECURED_BROADCAST": [
+            "spotify-8-8-50-466.apk"
+        ],
+        "com.samsung.android.rubin.context.permission.READ_CONTEXT_MANAGER": [
+            "spotify-8-8-50-466.apk"
+        ],
+        "com.spotify.music.permission.C2D_MESSAGE": [
+            "spotify-8-8-50-466.apk"
+        ],
+        "com.sec.android.app.clockpackage.permission.READ_ALARM": [
+            "spotify-8-8-50-466.apk"
+        ],
+        "com.samsung.WATCH_APP_TYPE.Companion": [
+            "spotify-8-8-50-466.apk"
+        ],
+        "com.spotify.music.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": [
+            "spotify-8-8-50-466.apk"
+        ],
+        "com.google.android.apps.meetings.permission.MEET_LIVE_SHARING": [
+            "spotify-8-8-50-466.apk"
+        ],
+        "com.spotify.music.permission.INTERNAL_BROADCAST": [
+            "spotify-8-8-50-466.apk"
+        ],
+        "com.sony.snei.np.android.account.provider.permission.DUID_READ_PROVIDER": [
+            "spotify-8-8-50-466.apk"
+        ],
+        "com.tiktok.preload.permission.IDENTIFY": [
+            "tiktok-30-2-3.apk"
+        ],
+        "com.orange.update.permission.READ_ATTRIBUTION": [
+            "tiktok-30-2-3.apk"
+        ],
+        "com.zhiliao.musically.livewallpaper.permission.wallpaperplugin": [
+            "tiktok-30-2-3.apk"
+        ],
+        "com.zhiliaoapp.musically.permission.RECEIVE_ADM_MESSAGE": [
+            "tiktok-30-2-3.apk"
+        ],
+        "com.android.launcher.permission.READ_SETTINGS": [
+            "tiktok-30-2-3.apk"
+        ],
+        "com.whatsapp.permission.BROADCAST": [
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "com.whatsapp.sticker.READ": [
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "com.whatsapp.permission.MAPS_RECEIVE": [
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "com.whatsapp.permission.REGISTRATION": [
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "com.google.android.youtube.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION": [
+            "youtube-18-25-38.apk"
+        ],
+        "com.google.android.youtube.permission.C2D_MESSAGE": [
+            "youtube-18-25-38.apk"
+        ]
+    },
+    "Phone Management and Contacts": {
+        "android.permission.READ_PHONE_STATE": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "spotify-8-8-50-466.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.READ_PHONE_NUMBERS": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "instagram-289-0-0-25-49.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "android.permission.READ_CONTACTS": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "telegram-9-6-7.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.FOREGROUND_SERVICE_MICROPHONE": [
+            "facebook-messenger-416-0-0-9-76.apk"
+        ],
+        "android.permission.WRITE_CONTACTS": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "android.permission.CALL_PHONE": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "telegram-9-6-7.apk"
+        ],
+        "android.permission.FOREGROUND_SERVICE_PHONE_CALL": [
+            "facebook-messenger-416-0-0-9-76.apk"
+        ]
+    },
+    "Cannot be Changed": {
+        "android.permission.FOREGROUND_SERVICE": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "spotify-8-8-50-466.apk",
+            "telegram-9-6-7.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.RECEIVE_BOOT_COMPLETED": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "spotify-8-8-50-466.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.READ_PROFILE": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "android.permission.USE_FULL_SCREEN_INTENT": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "android.permission.VIBRATE": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "spotify-8-8-50-466.apk",
+            "telegram-9-6-7.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.WAKE_LOCK": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "spotify-8-8-50-466.apk",
+            "telegram-9-6-7.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.SYSTEM_ALERT_WINDOW": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "telegram-9-6-7.apk",
+            "tiktok-30-2-3.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.NFC": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "spotify-8-8-50-466.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.BATTERY_STATS": [
+            "Facebook_420.0.0.32.61_apkcombo.com.apk"
+        ],
+        "android.permission.BROADCAST_STICKY": [
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "spotify-8-8-50-466.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "android.permission.REORDER_TASKS": [
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "android.permission.GET_TASKS": [
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC": [
+            "spotify-8-8-50-466.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE": [
+            "spotify-8-8-50-466.apk"
+        ]
+    },
+    "Networking": {
+        "android.permission.ACCESS_WIFI_STATE": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "spotify-8-8-50-466.apk",
+            "telegram-9-6-7.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.BLUETOOTH_CONNECT": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "spotify-8-8-50-466.apk",
+            "telegram-9-6-7.apk",
+            "tiktok-30-2-3.apk"
+        ],
+        "android.permission.ACCESS_NETWORK_STATE": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "spotify-8-8-50-466.apk",
+            "telegram-9-6-7.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.BLUETOOTH": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "instagram-289-0-0-25-49.apk",
+            "spotify-8-8-50-466.apk",
+            "telegram-9-6-7.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "android.permission.CHANGE_NETWORK_STATE": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "android.permission.BLUETOOTH_SCAN": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "spotify-8-8-50-466.apk"
+        ],
+        "android.permission.CHANGE_WIFI_STATE": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "android.permission.NEARBY_WIFI_DEVICES": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "android.permission.BLUETOOTH_ADMIN": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "spotify-8-8-50-466.apk"
+        ],
+        "android.permission.BLUETOOTH_ADVERTISE": [
+            "spotify-8-8-50-466.apk"
+        ],
+        "android.permission.CHANGE_WIFI_MULTICAST_STATE": [
+            "spotify-8-8-50-466.apk",
+            "tiktok-30-2-3.apk"
+        ]
+    },
+    "Audio and Camera Recording": {
+        "android.permission.MODIFY_AUDIO_SETTINGS": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "spotify-8-8-50-466.apk",
+            "telegram-9-6-7.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.CAMERA": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "telegram-9-6-7.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.RECORD_AUDIO": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "spotify-8-8-50-466.apk",
+            "telegram-9-6-7.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.READ_MEDIA_AUDIO": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "spotify-8-8-50-466.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "android.permission.FOREGROUND_SERVICE_CAMERA": [
+            "facebook-messenger-416-0-0-9-76.apk"
+        ]
+    },
+    "Settings Management": {
+        "android.permission.READ_SYNC_SETTINGS": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "android.permission.WRITE_SYNC_SETTINGS": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ]
+    },
+    "Account Management": {
+        "android.permission.GET_ACCOUNTS": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "spotify-8-8-50-466.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.MANAGE_ACCOUNTS": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "com.samsung.android.samsungaccount.permission.ACCOUNT_MANAGER": [
+            "spotify-8-8-50-466.apk"
+        ]
+    },
+    "Security and Authentication": {
+        "android.permission.AUTHENTICATE_ACCOUNTS": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk"
+        ],
+        "android.permission.USE_FINGERPRINT": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ],
+        "android.permission.USE_BIOMETRIC": [
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "telegram-9-6-7.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ]
+    },
+    "Internet and Connectivity": {
+        "android.permission.INTERNET": [
+            "com.snapchat.android_v12.41.0.54-101692_Android-5.0.apk",
+            "facebook-messenger-416-0-0-9-76.apk",
+            "Facebook_420.0.0.32.61_apkcombo.com.apk",
+            "instagram-289-0-0-25-49.apk",
+            "spotify-8-8-50-466.apk",
+            "telegram-9-6-7.apk",
+            "tiktok-30-2-3.apk",
+            "whatsapp-messenger-2-23-14-19.apk",
+            "youtube-18-25-38.apk"
+        ]
+    },
+    "Calendar and Events": {
+        "android.permission.WRITE_CALENDAR": [
+            "Facebook_420.0.0.32.61_apkcombo.com.apk"
+        ],
+        "android.permission.READ_CALENDAR": [
+            "Facebook_420.0.0.32.61_apkcombo.com.apk"
+        ]
+    }
+}
