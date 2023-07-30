@@ -10,3 +10,9 @@
 |------------------------------------------|----------------------|----------------------|------------------|-----------------|------------------|---------------|----------------|----------------|
 |     android.permission.WRITE_CALENDAR    |                      |     x                |                  |                 |                  |               |                |                |
 |     android.permission.READ_CALENDAR     |                      |     x                |                  |                 |                  |               |                |                |
+
+|     Location and Maps                            |     Facebook lite    |     Facebook full    |     Messenger    |     WhatsApp    |     Instagram    |     TikTok    |     Spotify    |     YouTube    |
+|--------------------------------------------------|----------------------|----------------------|------------------|-----------------|------------------|---------------|----------------|----------------|
+|     android.permission.ACCESS_COARSE_LOCATION    |     x                |     x                |     x            |     x           |                  |     x         |                |     x          |
+|     android.permission.ACCESS_FINE_LOCATION      |     x                |     x                |     x            |     x           |     x            |               |                |     x          |
+|     android.permission.ACCESS_MEDIA_LOCATION     |                      |     x                |                  |     x           |     x            |               |                |                |
