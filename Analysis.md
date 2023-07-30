@@ -17,6 +17,7 @@
 |     android.permission.ACCESS_FINE_LOCATION      |     x                |     x                |     x            |     x           |     x            |               |                |     x          |
 |     android.permission.ACCESS_MEDIA_LOCATION     |                      |     x                |                  |     x           |     x            |               |                |                |
 
+
 |     Applications /      Permissions : Networking      |     Facebook lite    |     Facebook full    |     Messenger    |     WhatsApp    |     Instagram    |     TikTok    |     Spotify    |     YouTube    |
 |-------------------------------------------------------|----------------------|----------------------|------------------|-----------------|------------------|---------------|----------------|----------------|
 |     android.permission.BLUETOOTH                      |     x                |     x                |     x            |     x           |     x            |     x         |     x          |                |
