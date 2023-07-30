@@ -18,7 +18,7 @@
 |     android.permission.ACCESS_MEDIA_LOCATION     |                      |     x                |                  |     x           |     x            |               |                |                |
 
 
-|     Applications /      Permissions : Networking      |     Facebook lite    |     Facebook full    |     Messenger    |     WhatsApp    |     Instagram    |     TikTok    |     Spotify    |     YouTube    |
+|    Networking      |     Facebook lite    |     Facebook full    |     Messenger    |     WhatsApp    |     Instagram    |     TikTok    |     Spotify    |     YouTube    |
 |-------------------------------------------------------|----------------------|----------------------|------------------|-----------------|------------------|---------------|----------------|----------------|
 |     android.permission.BLUETOOTH                      |     x                |     x                |     x            |     x           |     x            |     x         |     x          |                |
 |     android.permission.ACCESS_NETWORK_STATE           |     x                |     x                |     x            |     x           |     x            |     x         |     x          |     x          |
@@ -32,22 +32,22 @@
 |     android.permission.CHANGE_WIFI_MULTICAST_STATE    |     x                |     x                |                  |                 |                  |     x         |     x          |                |
 |     android.permission.NEARBY_WIFI_DEVICES            |     x                |     x                |                  |     x           |                  |               |                |                |
 
-|     Applications/Permissions: Internet and   Connectivity    |     Facebook lite    |     Facebook full    |     Messenger    |     WhatsApp    |     Instagram    |     TikTok    |     Spotify    |     YouTube    |
+|    Internet and   Connectivity    |     Facebook lite    |     Facebook full    |     Messenger    |     WhatsApp    |     Instagram    |     TikTok    |     Spotify    |     YouTube    |
 |--------------------------------------------------------------|----------------------|----------------------|------------------|-----------------|------------------|---------------|----------------|----------------|
 |     android.permission.INTERNET                              |                      |     x                |     x            |     x           |     x            |     x         |     x          |     x          |
 
-|     Applications /      Permissions: Media and Storage    |     Facebook lite    |     Facebook full    |     Messenger    |     WhatsApp    |     Instagram    |     TikTok    |     Spotify    |     YouTube    |
+|     Media and Storage    |     Facebook lite    |     Facebook full    |     Messenger    |     WhatsApp    |     Instagram    |     TikTok    |     Spotify    |     YouTube    |
 |-----------------------------------------------------------|----------------------|----------------------|------------------|-----------------|------------------|---------------|----------------|----------------|
 |     android.permission.WRITE_EXTERNAL_STORAGE             |     x                |     x                |     x            |     x           |     x            |     x         |     x          |     x          |
 |     android.permission.READ_EXTERNAL_STORAGE              |                      |     x                |     x            |     x           |     x            |     x         |     x          |                |
 
-|     Applications /      Permissions: Account Management              |     Facebook lite    |     Facebook full    |     Messenger    |     WhatsApp    |     Instagram    |     TikTok    |     Spotify    |     YouTube    |
+|    Account Management              |     Facebook lite    |     Facebook full    |     Messenger    |     WhatsApp    |     Instagram    |     TikTok    |     Spotify    |     YouTube    |
 |----------------------------------------------------------------------|----------------------|----------------------|------------------|-----------------|------------------|---------------|----------------|----------------|
 |     android.permission.MANAGE_ACCOUNTS                               |                      |     x                |     x            |     x           |                  |               |                |     x          |
 |     android.permission.GET_ACCOUNTS                                  |                      |     x                |     x            |     x           |     x            |               |     x          |     x          |
 |     com.samsung.android.samsungaccount.permission.ACCOUNT_MANAGER    |                      |                      |                  |                 |                  |               |     x          |                |
 
-|     Applications /      Permissions: Phone Management and Contacts    |     Facebook lite    |     Facebook full    |     Messenger    |     WhatsApp    |     Instagram    |     TikTok    |     Spotify    |     YouTube    |
+|      Phone Management and Contacts    |     Facebook lite    |     Facebook full    |     Messenger    |     WhatsApp    |     Instagram    |     TikTok    |     Spotify    |     YouTube    |
 |-----------------------------------------------------------------------|----------------------|----------------------|------------------|-----------------|------------------|---------------|----------------|----------------|
 |     android.permission.WRITE_CONTACTS                                 |                      |     x                |     x            |     x           |                  |               |                |                |
 |     android.permission.READ_CONTACTS                                  |                      |     x                |     x            |     x           |     x            |     x         |                |     x          |
