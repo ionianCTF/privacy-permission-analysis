@@ -5,5 +5,5 @@ In today's world, smartphones and other mobile devices have seamlessly integrate
 
 # What is included?
 1. Final-Analysis.md: Provides the tables of the permissions that were investigated for each of the 8 selected Android apps
-2. Permissions Folder: Includes all the permissions extracted per APK
-3. merged-permissions-per-category.json: Includes a novel list with permissions classified per category. The classification was done using signature-based classification using Python script. The Python script and more details will be published in on-going work in the future.
+2. merged-permissions-per-category.json: Includes a novel list with permissions classified per category. The classification was done using signature-based classification using Python script. The Python script and more details will be published in on-going work in the future.
+3. Permissions Folder: Includes all the permissions extracted per APK
