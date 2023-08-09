@@ -1,6 +1,4 @@
 # Privacy-permission-analysis
-
-<div style='text-align: justify;'>
 Privacy: Permission analysis for Android Applications
 
 In today's world, smartphones and other mobile devices have seamlessly integrated into our daily routines, offering a wide array of applications that unlock new possibilities. However, this convenience comes at a price; our privacy is at risk due to the substantial amount of personal data these devices require to function effectively.
@@ -13,4 +11,3 @@ To address this pressing issue, this article conducts an in-depth study of the p
 1. Final-Analysis.md: Provides the tables of the permissions that were investigated for each of the 8 selected Android apps
 2. merged-permissions-per-category.json: Includes a novel list with permissions classified per category. The classification was done using signature-based classification using Python script. The Python script and more details will be published in on-going work in the future.
 3. Permissions Folder: Includes all the permissions extracted per APK
-</div>
